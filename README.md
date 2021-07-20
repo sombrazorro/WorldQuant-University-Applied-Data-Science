@@ -14,9 +14,9 @@ Data Wrangling, Basic + Advanced Data Analysis, Python Basic Syntax + Data Struc
 # New Registration Link : 
 https://wqu-apply.thedataincubator.com/
 
-#Technical Assessment Answers
+#Technical Assessment Answers :
 
-#1) Let f(w) = 2w^3 - 5. What is f(4)?
+#1) Let f(w) = 2w^3 - 5. What is f(4)? :
 --> 123
 
 #2) Let f(w) = 2w^3 - 5. Let z = 2. What is f(z)?
