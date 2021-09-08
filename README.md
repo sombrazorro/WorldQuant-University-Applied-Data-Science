@@ -3,7 +3,7 @@
 # WorldQuant University's Applied Data Science Modules
 
 # My LinkedIn URL : 
-linkedin.com/in/kevinkumar-bhingaradiya-9324a8186/
+https://www.linkedin.com/in/kevinkumar-bhingaradiya-9324a8186/
 
 # 1) Applied Data Science I: 
 Scientific Computing & Python
